@@ -1,0 +1,46 @@
+{
+ "ADP": {
+  "detail": "HTTP 403",
+  "errs": 0,
+  "fails": 0,
+  "state": "ok"
+ },
+ "Paychex": {
+  "detail": "reachable",
+  "errs": 0,
+  "fails": 0,
+  "state": "ok"
+ },
+ "Paycom": {
+  "detail": "reachable",
+  "errs": 0,
+  "fails": 0,
+  "state": "ok"
+ },
+ "Paycor": {
+  "detail": "reachable",
+  "errs": 0,
+  "fails": 0,
+  "state": "ok"
+ },
+ "Rippling": {
+  "detail": "All Systems Operational",
+  "errs": 0,
+  "state": "ok"
+ },
+ "UKG": {
+  "detail": "reachable",
+  "errs": 0,
+  "fails": 0,
+  "state": "ok"
+ },
+ "Workday": {
+  "detail": "reachable",
+  "errs": 0,
+  "fails": 0,
+  "state": "ok"
+ },
+ "_meta": {
+  "heartbeat": 1794883986
+ }
+}
