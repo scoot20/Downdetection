@@ -24,9 +24,9 @@
   "state": "ok"
  },
  "Rippling": {
-  "detail": "All Systems Operational",
+  "detail": "Partial System Outage. Rippling AI outage",
   "errs": 0,
-  "state": "ok"
+  "state": "issue"
  },
  "UKG": {
   "detail": "reachable",
